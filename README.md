@@ -3,7 +3,15 @@
 - 🔭 Hoje trabalho com Back-End
 - 🌱 Atualmente estudando Java e springboot
 - 🌱 Tenho conhecimentos em Javascript, HTML, CSS e React
-- 👯 Para contato email: rodolfodasilvadias@gmail.com  
+- 👯 Para contato email: rodolfodasilvadias@gmail.com
+
+ <div>
+<img align="center" alt="Rods-React" height="30" width="50" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img align="center" alt="Rods-React" height="30" width="80" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img align="center" alt="Rods-React" height="30" width="80" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
+<img align="center" alt="Rods-React" height="30" width="50" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">   
+</div>
+
 
   <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RodolfoSDias&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
