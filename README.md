@@ -1,7 +1,7 @@
 ### Olá eu sou Rodolfo Dias  👋
 
 - 🔭 Hoje trabalho com Back-End
-- 🌱 Atualmente trabalahndo com Java e springboot
+- 🌱 Atualmente trabalhando com Java e springboot
 - 🌱 Tenho conhecimentos em Javascript, HTML, CSS e React
 - 👯 Para contato email: rodolfodasilvadias@gmail.com
 
